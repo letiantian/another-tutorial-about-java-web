@@ -29,6 +29,8 @@
 [01-02、使用Spring MVC构建Hello World](./01-02.md)  
 [01-03、JdbcTemplate](./01-03.md)  
 [01-04、基于注解的URL映射](./01-04.md)  
+[01-05、JSON](./01-05.md)  
+[01-06、校验器](./01-06.md)  
 
 
 
@@ -38,26 +40,39 @@
 
 ## Jetty
 
+
+
+
+
 ## 其他
 
 **使用redis存储session：**  
 [tomcat-redis-session-manager](https://github.com/jcoleman/tomcat-redis-session-manager)  
 
+**Tomcat与HTTP 1.1：**
+[Why tomcat reply HTTP 1.1 respose with an HTTP 1.0 request?](http://stackoverflow.com/questions/19461312/why-tomcat-reply-http-1-1-respose-with-an-http-1-0-request)  
+
+**Spring MVC官方文档：**  
+[Introduction to Spring Web MVC framework](http://docs.spring.io/spring/docs/3.0.x/spring-framework-reference/html/mvc.html)  
+[View technologies](http://docs.spring.io/spring/docs/3.0.x/spring-framework-reference/html/view.html)  
+
+**Spring官方文档：**  
+[Spring Framework Reference Documentation](http://docs.spring.io/spring/docs/3.0.x/spring-framework-reference/html/index.html)  
+
 
 ## 疑问
 
-- Tomcat与Http 1.1
 - Spring MVC 拦截器
 
 - spring web socket
 
+servlet 异步。
 
-返回json
+maven
 
 文件上传  
 
 
 [01-05、缓存](./01-05.md)  
 [01-06、拦截器](./01-06.md)  
-[01-07、校验器](./01-07.md)
 [01-08、国际化](./01-08.md)  
