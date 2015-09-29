@@ -49,7 +49,7 @@
 **使用redis存储session：**  
 [tomcat-redis-session-manager](https://github.com/jcoleman/tomcat-redis-session-manager)  
 
-**Tomcat与HTTP 1.1：**
+**Tomcat与HTTP 1.1：**  
 [Why tomcat reply HTTP 1.1 respose with an HTTP 1.0 request?](http://stackoverflow.com/questions/19461312/why-tomcat-reply-http-1-1-respose-with-an-http-1-0-request)  
 
 **Spring MVC官方文档：**  
