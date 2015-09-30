@@ -1,4 +1,4 @@
-这只是一个入门教程！
+浅入浅出Java Web
 
 ## JSP & Servlet
 
@@ -29,6 +29,9 @@
 
 ## Jetty
 
+## More  
+![更多](./more.md)  
+
 
 ## Book
 [《Spring MVC学习指南》](http://book.douban.com/subject/26411275/)  
@@ -40,23 +43,12 @@
 [Spring官方文档：Spring Framework Reference Documentation](http://docs.spring.io/spring/docs/3.0.x/spring-framework-reference/html/index.html)  
 [Spring MVC官方文档：Introduction to Spring Web MVC framework](http://docs.spring.io/spring/docs/3.0.x/spring-framework-reference/html/mvc.html)  
 
-## 其他
-
-**使用redis存储session：**  
-[tomcat-redis-session-manager](https://github.com/jcoleman/tomcat-redis-session-manager)  
-
-**Tomcat与HTTP 1.1：**  
-[Why tomcat reply HTTP 1.1 respose with an HTTP 1.0 request?](http://stackoverflow.com/questions/19461312/why-tomcat-reply-http-1-1-respose-with-an-http-1-0-request)  
-
-**视图技术：**  
-[View technologies](http://docs.spring.io/spring/docs/3.0.x/spring-framework-reference/html/view.html)  
-
+## 若有疑问  
+[stackoverflow](http://stackoverflow.com/)  
+[开源中国社区-问答](http://www.oschina.net/question)  
 
 
 ## 待完成
-
-
-spring web socket
 
 servlet 异步。
 
