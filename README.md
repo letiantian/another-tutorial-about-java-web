@@ -37,7 +37,6 @@
 [《Spring MVC学习指南》](http://book.douban.com/subject/26411275/)  
 
 ## Tutorial online
-
 [JSP教程 - 菜鸟教程](http://www.runoob.com/jsp/jsp-tutorial.html)  
 [Servlet教程 - 菜鸟教程](http://www.runoob.com/servlet/servlet-tutorial.html)  
 [Spring官方文档：Spring Framework Reference Documentation](http://docs.spring.io/spring/docs/3.0.x/spring-framework-reference/html/index.html)  
@@ -49,8 +48,6 @@
 
 
 ## 待完成
-
-servlet 异步。
 
 安全（转义、CSS、CSRF）
 
