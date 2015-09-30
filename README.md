@@ -24,18 +24,21 @@
 [01-05、JSON](./01-05.md)  
 [01-06、校验器](./01-06.md)  
 [01-07、国际化](./01-07.md)  
-
-
-
-
-
+[01-08、拦截器](./01-08.md)  
 
 
 ## Jetty
 
 
+## Book
+[《Spring MVC学习指南》](http://book.douban.com/subject/26411275/)  
 
+## Tutorial online
 
+[JSP教程 - 菜鸟教程](http://www.runoob.com/jsp/jsp-tutorial.html)  
+[Servlet教程 - 菜鸟教程](http://www.runoob.com/servlet/servlet-tutorial.html)  
+[Spring官方文档：Spring Framework Reference Documentation](http://docs.spring.io/spring/docs/3.0.x/spring-framework-reference/html/index.html)  
+[Spring MVC官方文档：Introduction to Spring Web MVC framework](http://docs.spring.io/spring/docs/3.0.x/spring-framework-reference/html/mvc.html)  
 
 ## 其他
 
@@ -45,27 +48,22 @@
 **Tomcat与HTTP 1.1：**  
 [Why tomcat reply HTTP 1.1 respose with an HTTP 1.0 request?](http://stackoverflow.com/questions/19461312/why-tomcat-reply-http-1-1-respose-with-an-http-1-0-request)  
 
-**Spring MVC官方文档：**  
-[Introduction to Spring Web MVC framework](http://docs.spring.io/spring/docs/3.0.x/spring-framework-reference/html/mvc.html)  
+**视图技术：**  
 [View technologies](http://docs.spring.io/spring/docs/3.0.x/spring-framework-reference/html/view.html)  
 
-**Spring官方文档：**  
-[Spring Framework Reference Documentation](http://docs.spring.io/spring/docs/3.0.x/spring-framework-reference/html/index.html)  
 
 
-## 疑问
+## 待完成
 
-- Spring MVC 拦截器
 
-- spring web socket
+spring web socket
 
 servlet 异步。
+
+安全（转义、CSS、CSRF）
 
 maven
 
 文件上传  
 
-
-[01-05、缓存](./01-05.md)  
-[01-06、拦截器](./01-06.md)  
-[01-08、国际化](./01-08.md)  
+01-05、缓存
