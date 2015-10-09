@@ -54,4 +54,4 @@
 [Hibernate](http://hibernate.org/)  
 
 ## Supplement  
-![补充](./supplement.md)  
+[补充](./supplement.md)  
