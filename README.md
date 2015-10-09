@@ -41,6 +41,8 @@
 [Servlet教程 - 菜鸟教程](http://www.runoob.com/servlet/servlet-tutorial.html)  
 [Spring官方文档：Spring Framework Reference Documentation](http://docs.spring.io/spring/docs/3.0.x/spring-framework-reference/html/index.html)  
 [Spring MVC官方文档：Introduction to Spring Web MVC framework](http://docs.spring.io/spring/docs/3.0.x/spring-framework-reference/html/mvc.html)  
+[跟开涛学spring mvc](http://sishuok.com/forum/blogCategory/showByCategory.html?categories_id=101&user_id=2)  
+
 ## Q & A
 [stackoverflow](http://stackoverflow.com/)  
 [开源中国社区-问答](http://www.oschina.net/question)  

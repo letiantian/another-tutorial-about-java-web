@@ -41,8 +41,10 @@
 [Spring Security 3.2.0.RC1 Highlights: CSRF Protection](http://spring.io/blog/2013/08/21/spring-security-3-2-0-rc1-highlights-csrf-protection/)  
 
 ## 缓存Ehcache
+[Java Web Application: How to implement caching techniques?](http://stackoverflow.com/questions/699996/java-web-application-how-to-implement-caching-techniques)  
 [Ehcache文档](http://www.ehcache.org/documentation/)  
 [注释驱动的 Spring cache 缓存介绍](http://www.ibm.com/developerworks/cn/opensource/os-cn-spring-cache/)  
+
 
 ## war格式
 [How to deploy a war file in Tomcat 7](http://stackoverflow.com/questions/5109112/how-to-deploy-a-war-file-in-tomcat-7)  
