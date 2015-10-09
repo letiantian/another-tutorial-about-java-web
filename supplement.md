@@ -1,4 +1,4 @@
-更多
+补充
 ---
 
 ## 使用redis存储session
@@ -40,3 +40,8 @@
 ## 缓存Ehcache
 [Ehcache文档](http://www.ehcache.org/documentation/)  
 [注释驱动的 Spring cache 缓存介绍](http://www.ibm.com/developerworks/cn/opensource/os-cn-spring-cache/)  
+
+## war格式
+[How to deploy a war file in Tomcat 7](http://stackoverflow.com/questions/5109112/how-to-deploy-a-war-file-in-tomcat-7)  
+[如何将netbeans生成的项目文件打包发布到其他的Tomcat服务器上？](http://asdcm2008.blog.163.com/blog/static/17412758520119249517732/)  
+[Deploying on tomcat](http://portofino.manydesigns.com/en/docs/portofino3/3_1_x/installation-guide/deploying-on-tomcat)  
