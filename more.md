@@ -36,3 +36,7 @@
 [Simple Cross Site Scripting (XSS) Servlet Filter](http://greatwebguy.com/programming/java/simple-cross-site-scripting-xss-servlet-filter/)  
 [Spring MVC防御CSRF、XSS和SQL注入攻击](http://www.cnblogs.com/Mainz/archive/2012/11/01/2749874.html)  
 [Spring Security 3.2.0.RC1 Highlights: CSRF Protection](http://spring.io/blog/2013/08/21/spring-security-3-2-0-rc1-highlights-csrf-protection/)  
+
+## 缓存Ehcache
+[Ehcache文档](http://www.ehcache.org/documentation/)  
+[注释驱动的 Spring cache 缓存介绍](http://www.ibm.com/developerworks/cn/opensource/os-cn-spring-cache/)  
