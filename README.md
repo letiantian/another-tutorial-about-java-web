@@ -31,14 +31,16 @@
 
 
 ## Book
-[《Spring MVC学习指南》](http://book.douban.com/subject/26411275/)  
+[Spring MVC学习指南](http://book.douban.com/subject/26411275/)  
+[JSP大学实用教程](http://book.douban.com/subject/7052099/)  
+[Spring MVC Beginner's Guide](https://www.packtpub.com/application-development/spring-mvc-beginner%E2%80%99s-guide)  
+[轻量级Java EE企业应用实战](http://book.douban.com/subject/10582495/)  
 
 ## Tutorial online
 [JSP教程 - 菜鸟教程](http://www.runoob.com/jsp/jsp-tutorial.html)  
 [Servlet教程 - 菜鸟教程](http://www.runoob.com/servlet/servlet-tutorial.html)  
 [Spring官方文档：Spring Framework Reference Documentation](http://docs.spring.io/spring/docs/3.0.x/spring-framework-reference/html/index.html)  
 [Spring MVC官方文档：Introduction to Spring Web MVC framework](http://docs.spring.io/spring/docs/3.0.x/spring-framework-reference/html/mvc.html)  
-
 ## Q & A
 [stackoverflow](http://stackoverflow.com/)  
 [开源中国社区-问答](http://www.oschina.net/question)  
@@ -46,10 +48,10 @@
 ## Learn More
 [Jetty](http://www.eclipse.org/jetty/)  
 [Netty](http://netty.io/)  
-
-## TODO
-
-maven
+[Maven](https://maven.apache.org/)  
+[Gradle](http://gradle.org/)  
+[MyBatis](http://mybatis.github.io/)  
+[Hibernate](http://hibernate.org/)  
 
 ## Supplement  
 ![补充](./supplement.md)  
