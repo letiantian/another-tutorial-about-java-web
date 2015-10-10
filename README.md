@@ -57,7 +57,10 @@
 [Hibernate](http://hibernate.org/)  
 
 **JUnit:**  
-[慕课网 —— JUnit：Java单元测试必备工具](http://www.imooc.com/learn/356)
+[慕课网：JUnit](http://www.imooc.com/learn/356)  
+
+**Maven:**  
+[慕课网：Maven](http://www.imooc.com/learn/443)  
 
 **Gradle:**  
 [Gradle User Guide](https://docs.gradle.org/current/userguide/userguide.html)  
