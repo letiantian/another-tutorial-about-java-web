@@ -36,7 +36,7 @@
 [Spring MVC Beginner's Guide](https://www.packtpub.com/application-development/spring-mvc-beginner%E2%80%99s-guide)  
 [轻量级Java EE企业应用实战](http://book.douban.com/subject/10582495/)  
 
-## Tutorial online
+## Online Tutorial
 [JSP教程 - 菜鸟教程](http://www.runoob.com/jsp/jsp-tutorial.html)  
 [Servlet教程 - 菜鸟教程](http://www.runoob.com/servlet/servlet-tutorial.html)  
 [Spring官方文档：Spring Framework Reference Documentation](http://docs.spring.io/spring/docs/3.0.x/spring-framework-reference/html/index.html)  
@@ -50,10 +50,14 @@
 ## Learn More
 [Jetty](http://www.eclipse.org/jetty/)  
 [Netty](http://netty.io/)  
+[JUnit](http://junit.org/)  
 [Maven](https://maven.apache.org/)  
 [Gradle](http://gradle.org/)  
 [MyBatis](http://mybatis.github.io/)  
 [Hibernate](http://hibernate.org/)  
+
+**JUnit:**  
+[慕课网 —— JUnit：Java单元测试必备工具](http://www.imooc.com/learn/356)
 
 **Gradle:**  
 [Gradle User Guide](https://docs.gradle.org/current/userguide/userguide.html)  
