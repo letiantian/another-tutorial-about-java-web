@@ -55,5 +55,12 @@
 [MyBatis](http://mybatis.github.io/)  
 [Hibernate](http://hibernate.org/)  
 
+**Gradle:**  
+[Gradle User Guide](https://docs.gradle.org/current/userguide/userguide.html)  
+[Gradle入门系列](http://blog.jobbole.com/71999/)  
+[使用Gradle构建Java Web应用](http://www.blogjava.net/jiangshachina/archive/2014/01/23/409285.html)  
+[Simple Gradle Web Application](http://codetutr.com/2013/03/23/simple-gradle-web-application/)  
+
+
 ## Supplement  
 [补充](./supplement.md)  
