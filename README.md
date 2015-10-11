@@ -55,6 +55,7 @@
 [Gradle](http://gradle.org/)  
 [MyBatis](http://mybatis.github.io/)  
 [Hibernate](http://hibernate.org/)  
+[Akka](http://akka.io/)  
 
 **JUnit:**  
 [慕课网：JUnit](http://www.imooc.com/learn/356)  
